@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "14c7d528-96c1-45f5-b674-f90fe23754e1": {
+      "ProjectGuid": "14c7d528-96c1-45f5-b674-f90fe23754e1",
+      "DisplayName": "C++toDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
